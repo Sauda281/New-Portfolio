@@ -1,5 +1,7 @@
 body {
-    background-image: url(../img/bg-body.jpg);
+    background-image: url("https://cdn.pixabay.com/photo/2019/04/10/11/56/watercolour-4116932__480.png");
+    background-repeat: no-repeat;
+    background-size: cover;
   }
   
   a, a:hover {
@@ -19,7 +21,7 @@ body {
   
   #profile {
     background: #cf455c;
-    background-image: url(../img/header-shadow.png);
+    background-image: url("https://cdn.pixabay.com/photo/2016/06/08/15/45/lemon-1444025__480.jpg");
     background-position: center bottom;
     background-repeat: repeat-x;
     overflow: hidden;
